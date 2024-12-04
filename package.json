@@ -2,7 +2,7 @@
   "name": "wasm-to-js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/build/",
+  "homepage": "https://michaelxf.github.io/wasm-playground/build/",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
