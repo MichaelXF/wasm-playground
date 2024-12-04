@@ -1,5 +1,9 @@
 # WASM Playground
 
+**[Try the website here.](https://michaelxf.github.io/wasm-playground/build/)**
+
+`https://michaelxf.github.io/wasm-playground/build/`
+
 This React App allows you to evaluate WebAssembly (Wasm) in your browser!
 
 The Wasm Text is converted into a Wasm binary, then evaluated on the bottom right panel.
