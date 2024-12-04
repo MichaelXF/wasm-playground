@@ -1,3 +1,20 @@
+# WASM Playground
+
+This React App allows you to evaluate WebAssembly (Wasm) in your browser!
+
+The Wasm Text is converted into a Wasm binary, then evaluated on the bottom right panel.
+
+Additionally, an AST is displayed on the top right panel.
+
+| Package                    | Purpose                     |
+| -------------------------- | --------------------------- |
+| wabt.js                    | Compiles WAT to WASM        |
+| @webassemblyjs/wasm-parser | Parses WASM Binary into AST |
+
+## License
+
+MIT License
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
